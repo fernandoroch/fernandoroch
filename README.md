@@ -8,9 +8,10 @@
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_daycode_)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbvFdyOVI8YSa-sH7MMBWkQ)
 
-![Fernando GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandoroch&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoroch)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img  height="80em" src="https://github-readme-stats.vercel.app/api?username=fernandoroch&show_icons=true&theme=radical"/>
+  <img  height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoroch&layout=compact" />
+</div>
 
 ### My skills
 
