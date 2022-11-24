@@ -16,8 +16,8 @@
 </div>
 
 <div align="center">
-  <img  height="80em" src="https://github-readme-stats.vercel.app/api?username=fernandoroch&show_icons=true&theme=radical"/>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoroch&layout=compact" />
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandoroch&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandoroch&layout=compact" />
 </div>
 <br/><br/>
 
