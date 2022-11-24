@@ -2,7 +2,7 @@
 
 <div align="center">
   
-## I'm Fernando Rocha 🤙🤙🤙
+# I'm Fernando Rocha 🤙🤙🤙
   
 </div>
 <br/><br/>
@@ -24,7 +24,8 @@
 
 <div align="center">
 
-### My skills
+## My skills
+  
 </div><br/>
 <div align="center">
 
@@ -36,7 +37,8 @@
 </div><br/><br/>
 
 <div align="center">
-### skills em estudos
+  
+## Skills em estudos
 
 <div align="center"><br/>
 <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
