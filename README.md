@@ -1,5 +1,7 @@
 <br/>
 
+<img src="logo-git.jpg" />
+
 <div align="center">
   
 # I'm Fernando Rocha 🤙🤙🤙
