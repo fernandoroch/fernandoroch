@@ -19,11 +19,6 @@
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@_daycode_)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCbvFdyOVI8YSa-sH7MMBWkQ)
 </div>
-
-<div align="center">
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
-</div>
 <br/>
 <div align='center'>
 <a height="160em" href="http://www.github.com/CaioAugustoHD"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandoroch&stroke=e7f216&theme=highcontrast&ring=e7f216&fire=e7f216&currStreakNum=e4e2e2&currStreakLabel=e7f216&sideNums=e4e2e2&sideLabels=e4ef1d&dates=e4e2e2&hide_border=true"/></a>
